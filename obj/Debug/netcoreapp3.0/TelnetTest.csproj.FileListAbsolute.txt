@@ -1,0 +1,12 @@
+D:\BlazorApps\TelnetTest\bin\Debug\netcoreapp3.0\TelnetTest.exe
+D:\BlazorApps\TelnetTest\bin\Debug\netcoreapp3.0\TelnetTest.deps.json
+D:\BlazorApps\TelnetTest\bin\Debug\netcoreapp3.0\TelnetTest.runtimeconfig.json
+D:\BlazorApps\TelnetTest\bin\Debug\netcoreapp3.0\TelnetTest.runtimeconfig.dev.json
+D:\BlazorApps\TelnetTest\bin\Debug\netcoreapp3.0\TelnetTest.dll
+D:\BlazorApps\TelnetTest\bin\Debug\netcoreapp3.0\TelnetTest.pdb
+D:\BlazorApps\TelnetTest\obj\Debug\netcoreapp3.0\TelnetTest.csprojAssemblyReference.cache
+D:\BlazorApps\TelnetTest\obj\Debug\netcoreapp3.0\TelnetTest.csproj.CoreCompileInputs.cache
+D:\BlazorApps\TelnetTest\obj\Debug\netcoreapp3.0\TelnetTest.AssemblyInfoInputs.cache
+D:\BlazorApps\TelnetTest\obj\Debug\netcoreapp3.0\TelnetTest.AssemblyInfo.cs
+D:\BlazorApps\TelnetTest\obj\Debug\netcoreapp3.0\TelnetTest.dll
+D:\BlazorApps\TelnetTest\obj\Debug\netcoreapp3.0\TelnetTest.pdb
